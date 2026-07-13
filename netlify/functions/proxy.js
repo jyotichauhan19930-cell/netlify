@@ -1,6 +1,6 @@
 const SHOPIFY_DOMAIN = "jobshiring.fresherhiring.in";
 const GOOGLE_VERIFICATION = "oOB4GFrNSNdykfLPFYsy8byFMtrbAiccGJfrX7_UcOU";
-const DATE_POSTED = "2026-05-06";
+const DATE_POSTED = "2026-07-13";
 const VALID_THROUGH = "2026-12-31";
 
 exports.handler = async (event) => {
