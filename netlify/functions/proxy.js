@@ -1,5 +1,5 @@
 const SHOPIFY_DOMAIN = "jobshiring.fresherhiring.in";
-const GOOGLE_VERIFICATION = "oOB4GFrNSNdykfLPFYsy8byFMtrbAiccGJfrX7_UcOU";
+const GOOGLE_VERIFICATION = "NaG55JVeQf6dZsuu1utZcMGxwAXgKLlZ_CEBfgaD5H8";
 const APPLY_URL = "https://ruwmqs-uq.myshopify.com/pages/apply";
 
 // Job Portal Configuration
